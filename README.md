@@ -52,7 +52,7 @@ CarGarageBilling/
 
 1. **Navigate to the project directory:**
    ```bash
-   cd "D:\Spark 3.0\Spark 3.0\CarGarageBilling"
+   cd "D:\CarGarageBilling"
    ```
 
 2. **Compile the Java files:**
@@ -68,7 +68,7 @@ CarGarageBilling/
 ### Using IntelliJ IDEA
 
 1. Open IntelliJ IDEA
-2. Open the project folder: `D:\Spark 3.0\Spark 3.0\CarGarageBilling`
+2. Open the project folder: `D:\CarGarageBilling`
 3. Right-click on `GarageBillingApp.java` in the src folder
 4. Select "Run 'GarageBillingApp.main()'"
 
@@ -76,7 +76,7 @@ CarGarageBilling/
 
 1. Open Eclipse
 2. Import the project: File → Import → General → Existing Projects into Workspace
-3. Select the project folder: `D:\Spark 3.0\Spark 3.0\CarGarageBilling`
+3. Select the project folder: `D:\CarGarageBilling`
 4. Right-click on `GarageBillingApp.java`
 5. Select "Run As" → "Java Application"
 
@@ -219,4 +219,5 @@ This project is created for educational purposes.
 
 ## Author
 
-Created for Bharti Car Service Center billing system.
+Created for  Car Service Center billing system.
+Created By Dipanshu pandey
